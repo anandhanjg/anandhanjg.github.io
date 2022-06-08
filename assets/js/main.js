@@ -73,7 +73,7 @@ function main(){
         }else if(id.includes('wp')){
             window.open("https://wa.me/918608251288")
         }else if(id.includes('lin')){
-            window.open("https://www.linkedin.com/in/anandhan-ganesh-577491156")
+            window.open("https://www.linkedin.com/in/anandhanjg/")
         }else if(id.includes('github')){
             window.open("https://www.github.com/anandhanjg")
         }else if(id.includes('twitter')){
